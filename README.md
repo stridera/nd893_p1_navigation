@@ -53,7 +53,7 @@ This is the first project in the Udacity [Deep Reinforcement Learning Nanodegree
 
 ### Environment Details
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
+For this project, I trained an agent to navigate (and collect bananas!) in a large, square world.
 
 ![Trained Agent][image1]
 
