@@ -1,0 +1,6 @@
+runs/
+env/
+.venv
+__pycache__/
+
+unity-environment.log
