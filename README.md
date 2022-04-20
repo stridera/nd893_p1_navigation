@@ -5,7 +5,7 @@
 
 ## Project 1: Navigation
 
-This is the first project in the Udacity [Deep Reinforcement Learning Nanodegree.](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) The goal is to setup a deep RL model that will play the supplied [Banana Environment](env.md).
+This is the first project in the Udacity [Deep Reinforcement Learning Nanodegree.](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) The goal is to setup a deep RL model that will play the supplied Banana Environment.
 
 ### Getting Started
 
